@@ -1,7 +1,7 @@
 # telegram-report-tool
 FREE TOOL FOR EVERYONE
 
-MESSAGE FOR GUIDE > https://t.me/techiebrain
+MESSAGE FOR GUIDE > https://t.me/techiegenius
 
 ![tgreport](https://user-images.githubusercontent.com/125784563/221641878-8e9cdb9a-a212-4704-8d40-1f65b3540106.png)
 
@@ -12,7 +12,7 @@ BANNING TELEGRAM CHANNELS AND GROUPS
 
 IF YOU HAVE A DEAL RELATED TO TELEGRAM 
 
-MESSAGE > https://techiebrain
+MESSAGE > hhttps://t.me/techiegenius
 
 # USAGE
 
@@ -26,7 +26,7 @@ THESE ARE JUST THE TWO THINGS YOU NEED IN THE MODIFICATION OF THIS PYTHON SCRIPT
 
 FEEL FREE TO MESSAGE ME FOR A FREE GUIDE
 
-MESSAGE > https://t.me/techiebrain
+MESSAGE > https://t.me/techiegenius
 
 
 # LEGAL DISCLAIMER
